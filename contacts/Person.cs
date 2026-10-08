@@ -12,6 +12,8 @@ namespace contacts
 
         public double Age { get; set; }
 
+        public string SSN { get; set; }
+
 
         
     }
